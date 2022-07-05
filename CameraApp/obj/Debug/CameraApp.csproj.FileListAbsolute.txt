@@ -1,0 +1,17 @@
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\bin\Debug\CameraApp.exe.config
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\bin\Debug\CameraApp.exe
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\bin\Debug\CameraApp.pdb
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\bin\Debug\AForge.dll
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\bin\Debug\AForge.Video.DirectShow.dll
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\bin\Debug\AForge.Video.dll
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\bin\Debug\AForge.xml
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\bin\Debug\AForge.Video.xml
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\bin\Debug\AForge.Video.DirectShow.xml
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\obj\Debug\CameraApp.csproj.AssemblyReference.cache
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\obj\Debug\CameraApp.Form1.resources
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\obj\Debug\CameraApp.Properties.Resources.resources
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\obj\Debug\CameraApp.csproj.GenerateResource.cache
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\obj\Debug\CameraApp.csproj.CoreCompileInputs.cache
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\obj\Debug\CameraApp.csproj.CopyComplete
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\obj\Debug\CameraApp.exe
+D:\Sreelakshmi\interview\CameraWin\CameraApp\CameraApp\obj\Debug\CameraApp.pdb
